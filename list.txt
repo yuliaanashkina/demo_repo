@@ -1,0 +1,5 @@
+this is a list of things i like: 
+- UCLA
+- statistics
+- python
+
